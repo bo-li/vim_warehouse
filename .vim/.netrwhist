@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/work/lib/PG_test/bgy_solutes/nist-molecules/pg_pcm/alcohols/butanol'
+let g:netrw_dirhist_2='/work/lib/PG_test/bgy_solutes/nist-molecules/pg_pcm/alcohols/butanol/gp'
+let g:netrw_dirhist_3='/work/lib/BGY3DM/version_BL_wheezy/test-qm/uranyl/test_PBE/test_4h2o'
+let g:netrw_dirhist_4='/var/local'
+let g:netrw_dirhist_5='/work/lib/BGY3DM/version_BL_wheezy_test/test-qm'
